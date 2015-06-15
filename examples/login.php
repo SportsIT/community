@@ -2,10 +2,10 @@
 <?php
 require_once('../lib/SIT_API.php');
 $API = 'http://api.sports-it.com/v3';
-$privateKey = '565942e7beb5bc1f0fb20424b9eafbdd';
-$publicKey = 'd3447f4e2f923fbb6249a693b54a53a6';
+$privateKey = 'CHANGEME';
+$publicKey = '15bbb9d0bbf25e8d2978de1168c749dc';
 
-$username = 'CHANGEME';
+$username = 'atippett@gmail.com';
 $password = 'CHANGEME';
 
 
